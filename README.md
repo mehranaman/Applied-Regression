@@ -1,2 +1,2 @@
-# Data-analytics-and-regression
-Classes: Data analytics (NumPy, Pandas, scikit learn), Applied regression (R)
+# Applied regression
+Classes: Applied regression lab work on R
